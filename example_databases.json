@@ -1,0 +1,19 @@
+{
+	"custid": "xxxxxxxx",
+	"activeDatabases": [
+		"Academic Search Index (asx)",
+		"AMED - The Allied and Complementary Medicine Database (amed)",
+		"Arctic & Antarctic Regions (fih)",
+		"Arts & Humanities Citation Index (edswah)",
+		"Audiobook Collection (EBSCOhost) (nlabk)",
+		"Business Source Premier (buh)",
+		"PsycARTICLES (pdh)",
+		"PsycINFO (psyh)",
+		"Regional Business News (bwh)",
+		"RILM Abstracts of Music Literature (1967 to Present only) (rih)",
+		"Science Citation Index (edswsc)",
+		"Scopus\u00ae (edselc)",
+		"Social Sciences Citation Index (edswss)",
+		"SPORTDiscus with Full Text (s3h)"
+	]
+}
